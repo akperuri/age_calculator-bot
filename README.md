@@ -1,5 +1,5 @@
 # Age Calculator Bot 🤖
-A slack bot developed using Go to calculate age with implemented functionality for event handling. With the current year in the program and given the Year of Birth (YOB), the age is determined.
+A slack bot developed using Go to calculate age with implemented functionality for event handling. The age is determined using the current year in the program and given the year of birth (YOB).
 
 You will be able to create this slack bot only if you are an admin for the workspace. Given that you are an admin for the workspace, navigate to api.slack.com/apps, and create an app from scratch.
 
